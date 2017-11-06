@@ -1,0 +1,2 @@
+C:\Development\Skunkworx\NRCC\TCPServer\TCPServer\obj\Debug\TCPServer.csprojResolveAssemblyReference.cache
+C:\Development\Skunkworx\NRCC\TCPServer\TCPServer\obj\Debug\TCPServer.csproj.CoreCompileInputs.cache

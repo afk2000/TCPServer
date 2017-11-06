@@ -1,0 +1,12 @@
+C:\Development\Skunkworx\NRCC\TCPServer\TCPServer\bin\Release\TCPServer.exe.config
+C:\Development\Skunkworx\NRCC\TCPServer\TCPServer\bin\Release\TCPServer.exe.manifest
+C:\Development\Skunkworx\NRCC\TCPServer\TCPServer\bin\Release\TCPServer.application
+C:\Development\Skunkworx\NRCC\TCPServer\TCPServer\bin\Release\TCPServer.exe
+C:\Development\Skunkworx\NRCC\TCPServer\TCPServer\bin\Release\TCPServer.pdb
+C:\Development\Skunkworx\NRCC\TCPServer\TCPServer\bin\Release\CommandLine.dll
+C:\Development\Skunkworx\NRCC\TCPServer\TCPServer\bin\Release\CommandLine.xml
+C:\Development\Skunkworx\NRCC\TCPServer\TCPServer\obj\Release\TCPServer.csproj.CoreCompileInputs.cache
+C:\Development\Skunkworx\NRCC\TCPServer\TCPServer\obj\Release\TCPServer.exe.manifest
+C:\Development\Skunkworx\NRCC\TCPServer\TCPServer\obj\Release\TCPServer.application
+C:\Development\Skunkworx\NRCC\TCPServer\TCPServer\obj\Release\TCPServer.exe
+C:\Development\Skunkworx\NRCC\TCPServer\TCPServer\obj\Release\TCPServer.pdb
